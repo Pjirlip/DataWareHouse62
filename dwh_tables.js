@@ -44,7 +44,7 @@ const main = async () => {
     }
     console.log("Dimensions: \n", dimensions, "\n\n")
     
-    // Transmutate original file Data with new Keys and write Dimension files
+    // Anpassen der Keys im Originalfile und schreiben der Dimension-Files
     for (const [index, dim] of dimensions.entries()) {
         const d = Array.from(dim.values())
 
