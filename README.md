@@ -1,4 +1,4 @@
-# Data Warehouse - Aufgabvenbaltt 6 Aufgabe 2
+# Data Warehouse - Aufgabenblatt 6 Aufgabe 2
 
 Ziel des Programms ist die zerlegung einer CSV in Dimensionen und Fakten wie im Aufgabenbaltt gefordert. 
 
