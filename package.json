@@ -1,0 +1,19 @@
+{
+  "name": "dw-a62",
+  "version": "1.0.0",
+  "description": "Aufgabe 2 DataWarehouse",
+  "main": "dwh_tables.js",
+  "scripts": {
+    "start": "node dwh_tables.js",
+    "test": "node dwh_tables.js -- input.csv 3"
+  },
+  "bin": {
+      "dwh_tables": "./dwh_tables.js"
+  },
+  "type": "module",
+  "author": "Philipp Dippel <dippelp@hochschule-trier.de>",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.3.1"
+  }
+}
